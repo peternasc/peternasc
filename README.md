@@ -3,7 +3,7 @@
 🚀 **Sobre mim:**  
 - 🎯 Buscando evolução constante em tecnologia e análise de dados.  
 - 💻 Atualmente trabalhando no Command Center do Banco Pan.  
-- 📚 Estudando **Git, GitHub, Python, PowerShell, VBA e CLOUD**  
+- 📚 Estudando **Git, GitHub, Python, PowerShell, VBA e Cloud**  
 - 🔍 Explorando automação e análise de redes.  
 
 ---
@@ -20,9 +20,13 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-<!--
+
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=true)
+
+
+<!--
 ## 📈 GitHub Stats  
 ![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dracula)
 -->
