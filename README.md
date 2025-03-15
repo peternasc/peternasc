@@ -23,19 +23,17 @@
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-
-
-
-
 ---
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=true)
+
+## 📈 GitHub Top Linguagens
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=true&theme=dracula)
 
 
-<!--
+
 ## 📈 GitHub Stats  
 ![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dracula)
--->
+
 ---
 
 💡 _Sempre aprendendo e compartilhando conhecimento!_ 🚀  
