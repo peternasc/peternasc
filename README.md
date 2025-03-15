@@ -1,19 +1,30 @@
+# 👋 Olá, eu sou o Peterson!  
 
-<!-- Cabeçalho-->
+🚀 **Sobre mim:**  
+- 🎯 Buscando evolução constante em tecnologia e análise de dados.  
+- 💻 Atualmente trabalhando no Command Center do Banco Pan.  
+- 📚 Estudando **Git, GitHub, Python, PowerShell, VBA e CLOUD**  
+- 🔍 Explorando automação e análise de redes.  
 
-# Peterson Nascimento
+---
 
-<!--
-**peternasc/peternasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Contato  
+🔗 **LinkedIn:** [Peterson Nascimento](https://www.linkedin.com/in/peterson-nascimento-a30082a9/)  
+
+---
+
+💡 _Sempre aprendendo e compartilhando conhecimento!_ 🚀  
