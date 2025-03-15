@@ -20,11 +20,12 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
+<!--
 ---
 
 ## 📈 GitHub Stats  
 ![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dracula)
-
+-->
 ---
 
 💡 _Sempre aprendendo e compartilhando conhecimento!_ 🚀  
