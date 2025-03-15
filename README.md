@@ -19,11 +19,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=true)
 
 
 <!--
