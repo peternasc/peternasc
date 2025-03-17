@@ -32,7 +32,7 @@
 
 
 ## 📈 GitHub Stats  
-![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dracula)
+![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=false&theme=dracula)
 
 ---
 
