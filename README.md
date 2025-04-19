@@ -26,7 +26,7 @@
 ---
 
 
-## 📈 GitHub Top Linguagens
+## 📈 GitHub TopLinguagens
 ![TopLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=false&theme=dracula)
 
 
