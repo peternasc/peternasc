@@ -27,7 +27,7 @@
 
 
 ## 📈 GitHub Top Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=false&theme=dracula)
+![TopLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&hide_progress=false&theme=dracula)
 
 
 
