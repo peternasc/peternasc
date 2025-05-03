@@ -27,12 +27,12 @@
 
 
 ## 📈 GitHub Top Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&theme=)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&theme=dracula)
 
 
 
 ## 📈 GitHub Stats  
-![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&theme=dracua)
+![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&theme=dracula)
 
 ---
 
