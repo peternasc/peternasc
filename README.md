@@ -3,7 +3,7 @@
 🚀 **Sobre mim:**  
 - 🎯 Buscando evolução constante em tecnologia e análise de dados.  
 - 💻 Atualmente trabalhando no Command Center do Banco Pan.  
-- 📚 Estudando **Git, GitHub, Python, PowerShell, VBA e Cloud**  
+- 📚 Estudando **Git, GitHub, Python, PowerShell, Assembly e C**  
 - 🔍 Explorando automação e análise de redes.  
 
 ---
