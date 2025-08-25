@@ -20,19 +20,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
 
 ## 📈 GitHub Top Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=peternasc&show_icons=true&theme=dark)
 
 
 
 ## 📈 GitHub Stats  
-![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&theme=dark)
+![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternasc&show_icons=true&theme=dark)
 
 ---
 
